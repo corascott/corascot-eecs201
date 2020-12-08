@@ -6,7 +6,7 @@ module.exports = {
       upload: {
         target: 'lhci',
         serverBaseUrl: 'https://corascott.herokuapp.com',
-        token: '37d011dc-44fa-4e7a-b2d3-c18f5e2185bd', // could also use LHCI_TOKEN variable instead
+        token: '1243c94a-5848-47e0-af9f-252d91908def', // could also use LHCI_TOKEN variable instead
       },
     },
   };
